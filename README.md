@@ -1,5 +1,7 @@
 # Quick Markdown (QMD) Reference Documentation
 
+![QMD Logo](logo.png)
+
 **Version 1.0**  
 *A storage-efficient, backward-compatible evolution of Markdown especially for LLM consumption*
 
