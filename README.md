@@ -305,7 +305,7 @@ The quadratic formula: $x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$
 Check https://store.com for *deals*.
 ```
 
-**QMD Version** (217 bytes which is 6.1% reduction ):
+**QMD Version** (217 bytes,approximately 6.1 % reduction):
 ```
 >Shopping List
 
